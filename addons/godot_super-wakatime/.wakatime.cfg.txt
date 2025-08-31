@@ -1,4 +1,0 @@
-    ```sh
-    [settings]
-    api_key=b54da52c-380f-4e81-93ef-2795a9e4bf81
-    ```
